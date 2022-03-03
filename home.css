@@ -1,0 +1,133 @@
+body {
+  margin: 0;
+  overflow-x: 100%;
+}
+
+
+.bar {
+  background-color:rgb(218, 218, 218);
+  height: 350px;
+  width: 110px;
+  border-bottom-right-radius: 15px;
+  position:relative;
+}
+
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  border-radius:50px;
+  position:absolute;
+  margin-top: 10px;
+  margin-left: 35px;
+}
+
+
+.text-top {
+  margin-top: 60px;
+  position: absolute;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#vhod {
+  margin-left: 28px;
+  margin-bottom: 12px;
+  text-decoration: none;
+  color:#696969;
+}
+#dopinfa {
+  margin-left: 16px;
+  color:#696969;
+}
+
+
+#vhod:hover {
+  transition: 0.5s;
+  color:#000000;
+}
+#dopinfa:hover {
+  transition: 0.5s;
+  color:#000000;
+}
+
+
+#gh {
+  width:110px ;
+  height: 2px;
+  background-color:rgb(135, 135, 135);
+  position: absolute;
+  margin-top: 120px;
+}
+
+
+.textbar {
+  margin-top:135px;
+  margin-left: 10px;
+  position: absolute;
+  padding-bottom: 10px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.all {
+  color:#696969;
+  margin-top:0px;
+  position: absolute;
+}
+.tangiro {
+  color:#696969;
+  margin-top:25px;
+  position: absolute;
+}
+.nezuko {
+  color:#696969;
+  margin-top:50px;
+  position: absolute;
+}
+.zenitsu {
+  color:#696969;
+  margin-top:75px;
+  position: absolute;
+}
+.inoske {
+  color:#696969;
+  margin-top:100px;
+  position: absolute;
+}
+.rengoku {
+  color:#696969;
+  margin-top:125px;
+  position: absolute;
+}
+
+
+.all:hover {
+  transition: 0.5s;
+  color:#000000;
+}
+.tangiro:hover {
+  transition: 0.5s;
+  color:#000000;
+}
+.nezuko:hover {
+  transition: 0.5s;
+  color:#000000;
+}
+.zenitsu:hover {
+  transition: 0.5s;
+  color:#000000;
+}
+.inoske:hover {
+  transition: 0.5s;
+  color:#000000;
+}
+.rengoku:hover {
+  transition: 0.5s;
+  color:#000000;
+}
+.form__imput {
+  border: 2px solid grey;
+  position: absolute;
+  border-radius:5px;
+  font-family: inherit;
+  font-size: inherit;
+  outline: none;
+}
